@@ -1,10 +1,10 @@
-# Microserviço três módulos de relatórios de Compras
+# 📦 Microserviço três módulos de relatórios de Compras
 
-Gera relatórios de compra diversos com base nos dados consumidos de uma API externa.
+Gera **relatórios de compras** diversos com base nos dados consumidos de uma API externa.
 
-Java | Spring Boot | Spring Webflux | Spring Cloud | Eureka Server | Spring Cloud Gateway | Swagger
+🔧 Tecnologias aplicadas: **Java** | **Spring Boot** | **Spring Webflux** | **Spring Cloud** | **Eureka Server** | **Spring Cloud Gateway** | **Swagger**.
 
-## Endpoints
+## 🔁 Endpoints
 
 - /compras - Retorna uma lista de compras ordenadas de forma crescente por valor:
 
@@ -30,7 +30,7 @@ Java | Spring Boot | Spring Webflux | Spring Cloud | Eureka Server | Spring Clou
     <img align="center" alt="GET - Recomendacao-cliente-vinho" src="https://github.com/flauzo/microservico-app-compras-reports/image-repo-github/blob/main/GET%20-%20recomendacao-cliente-vinho.JPG">
 </p>
 
-## Utilização - passo a passo
+## ✅ Utilização - passo a passo
 
 1. Clonar o repositório ou baixar os três módulos para uma pasta única.
 2. Importar essa pasta única numa IDE como p.ex. VC Code, Eclipse ou IntelliJ.
@@ -41,7 +41,7 @@ Java | Spring Boot | Spring Webflux | Spring Cloud | Eureka Server | Spring Clou
 
 Exemplo passo 6: http://localhost:8080/ms-relatorio-compras/compras
     
-## Eureka Server
+## 📅 Eureka Server
 
 Acessar via endereço http://localhost:8761
 
